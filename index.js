@@ -9,7 +9,7 @@ button.onclick = () => {
     
     }
     dblbutton.onclick = () => {
-        img.src = `/Users/anvar/Desktop/js home/html/img/mbp14-spacegray-select-202110 1.png`
+        img.src = `img/mbp14-spacegray-select-202110 1.png`
     }
 
     button.onmouseenter = () => {
@@ -17,6 +17,6 @@ button.onclick = () => {
 
     }
     dblbutton.onmouseenter = () => {
-        img.src = `/Users/anvar/Desktop/js home/html/img/mbp14-spacegray-select-202110 1.png`
+        img.src = `img/mbp14-spacegray-select-202110 1.png`
     }
 
